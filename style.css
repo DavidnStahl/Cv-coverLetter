@@ -82,10 +82,10 @@ li {
 }
 .information-container-contacts{
     float: left;
-    margin-left: 12.5%;
+    margin-left: 22.5vh;
     margin-right: 12.5%;
     margin-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 15vh;
     height: 24vmax;
 }
 .linkedIn{
