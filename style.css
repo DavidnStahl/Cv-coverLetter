@@ -73,6 +73,7 @@ li {
     clear: both;
     text-align: center;
 
+
 }
 .information-container{
     float: left;
@@ -80,6 +81,7 @@ li {
     margin-right: 12.5%;
     margin-top: 10px;
     margin-bottom: 50px;
+    height: 100vh 1;
 }
 .linkedIn{
 color: black;
@@ -92,7 +94,8 @@ nav {
     margin: auto;
     width: 100%;
     margin-top:10px;
-    max-width: 100%;   
+    max-width: 100%;
+    position: relative;   
 }
  nav a {
     text-decoration: none;
