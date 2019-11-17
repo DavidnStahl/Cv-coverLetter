@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+   height: 100%;
+   width: 100%;
+    background-image: linear-gradient(#ada996, #f2f2f2 , #dbdbdb,#eaeaea);
+}
+
+#imgDavid {
+    border-radius: 50%;
+    max-width: 100%;
+    
+}
+h1{
+    font-size: 1.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color:black;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px bold;
+    color: black;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px bold;
+    color: black;
+}
+.startText {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.625rem;
+    color: black;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+header{
+    margin-left: 12.5%;
+}
+.container-top{
+    margin: auto;
+    width: 100%;
+    background-color: #E4F9F5;
+}
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boxskillz {
+
+    float: left;
+    width: 200px;
+    margin-left: 12.5%;
+    margin-top: 10px;
+    padding: 5px;
+
+}
+.boxexperince {
+    float: left;
+    width: 45%;
+    margin-left: 12.5%;
+    margin-top: 10px;
+    padding: 5px;
+
+}
+.bottom-container{
+    clear: both;
+    text-align: center;
+
+}
+.information-container{
+    float: left;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.linkedIn{
+color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+
+
+nav {
+    display: auto; 
+    margin: auto;
+    width: 100%;
+    margin-top:10px;
+    max-width: 100%;   
+}
+ nav a {
+    text-decoration: none;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:black;
+    margin-left: 14.5%;
+ }
+ a {
+     text-decoration:  none;
+     color:black;
+
+ }
+ hr {
+    width: 100%;
+ }
+
+ a:hover {
+    color: white;
+  }
+
