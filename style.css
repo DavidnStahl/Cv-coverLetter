@@ -1,7 +1,7 @@
 body{
-    margin: 0px;
-   height: 100%;
-   width: 100%;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
     background-image: linear-gradient(#ada996, #f2f2f2 , #dbdbdb,#eaeaea);
 }
 
@@ -72,8 +72,6 @@ li {
 .bottom-container{
     clear: both;
     text-align: center;
-
-
 }
 .information-container{
     float: left;
@@ -81,7 +79,14 @@ li {
     margin-right: 12.5%;
     margin-top: 10px;
     margin-bottom: 50px;
-    height: 100vh 1;
+}
+.information-container-contacts{
+    float: left;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    height: 24vmax;
 }
 .linkedIn{
 color: black;
